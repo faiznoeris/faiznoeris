@@ -5,7 +5,7 @@ A software engineer who's eager to learn and adapt with fast-changing technology
 I stand for quality & performance on every aspect. Using *SOLID* as my clean & maintainable code principles.
 
 #### Technologies
-`Typescript` `Javascript` `NodeJs` `Vite` `NextJS` `ReactJS` `React Native` `MUI` `Ant Design` `Tamagui` `TailwindCSS` `Redux` `Express` `Sequelize` `PostgreSQL` `MongoDB` `MySQL` `Component Modularization` `NPM Packages` `SEO Optimization` `Optical Character Recognition (OCR)` `Web Design` `Scrum Master` `Web Performance Optimization` `Responsive Design` `PWA`
+`Typescript` `Javascript` `NodeJs` `Vite` `NextJS` `ReactJS` `React Native` `MUI` `Ant Design` `Tamagui` `TailwindCSS` `shadcn/ui` `Redux` `Express` `Sequelize` `PostgreSQL` `MongoDB` `MySQL` `Component Modularization` `NPM Packages` `SEO Optimization` `Optical Character Recognition (OCR)` `Web Design` `Scrum Master` `Web Performance Optimization` `Responsive Design` `PWA`
 
 #### About me
 - 🏦 Currently working in Awesome Company as a *Software Engineer*.
