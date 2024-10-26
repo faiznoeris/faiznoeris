@@ -11,6 +11,7 @@ I stand for quality & performance on every aspect. Using *SOLID* as my clean & m
 - 🏦 Currently working in Awesome Company as a *Software Engineer*.
 - 📝 I contribute in *Medium* articles weekly.
 - 📖 Continously learning about newest tech.
+- 👨‍🏫 Doing Scrum Master by night ☾
 
 #### Get in touch
 - 📷 [Instagram](https://www.instagram.com/faiznoeris)
