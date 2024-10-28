@@ -14,7 +14,7 @@ I stand for quality & performance on every aspect. Using *SOLID* as my clean & m
 - 👨‍🏫 Doing Scrum Master by night ☾
 
 #### Get in touch
-- 📷 [Instagram](https://www.instagram.com/faiznoeris)
+- 📷 [Instagram](https://www.instagram.com/faiznoeris.dev)
 - 🗣️ [X](https://x.com/faiznoeris)
 - ✍️ [Medium](https://medium.com/@m.faiznoeris)
 - ✉️ [muhammadfaiz.noeris@gmail](mailto:muhammadfaiz.noeris@gmail) 
